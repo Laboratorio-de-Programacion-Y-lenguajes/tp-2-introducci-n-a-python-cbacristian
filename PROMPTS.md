@@ -92,15 +92,15 @@ No lo modifique
 ### 5 - loops.py
 
 **Herramienta**: 
-
+chat de VSC en auto
 **Prompt usado**:
-> 
+> el archivo loops.py contiene 5 funciones sin implementar, que se deben hacer de la siguiente manera: para la funcion "contar_hasta", se recibe como parametro un valor int y se retorna una lista con todos los numeros del 1 hasta el valor, incluyendolo; para la funcion "tabla_multiplicar" se recibe un parametro numerico int y la funcion debe retornar una lista con los 10 primeros multiplos del parametro; para la funcion "suma_digitos" se ingresa como parametro un numero y se requiere que la funcion retorne la suma de los digitos involucrados, si el numero del parametro no es entero positivo, se debe retornar un cero; para la funcion "es_primo" se evalua un numero int del parametro y se necesita retornar verdadero o true si el numero es primo; para la funcion "fibonacci" se recibe un parametro numerico y se desea retornar los valores de fibonacci hasta el parametro ingresado, se deben retornar como una lista.
 
 **Resultado obtenido**:
-
+los resultados pasan las pruebas
 
 **¿Lo usaste tal cual o lo modificaste?**
-
+lo use tal cual
 
 ---
 
@@ -139,5 +139,8 @@ no lo modifique
 Respondé brevemente (3-5 oraciones):
 
 - ¿Qué aprendiste sobre cómo formular buenos prompts?
+Que deben ser muy explicitos y detallados
 - ¿En qué casos la IA fue útil y en cuáles no?
+En la mayoria de los casos, la ia fue util, mas cuando no sabes la sintaxis de un lenguaje
 - ¿Qué harías diferente la próxima vez?
+hacer prompts mas cortos y mas consisos.
