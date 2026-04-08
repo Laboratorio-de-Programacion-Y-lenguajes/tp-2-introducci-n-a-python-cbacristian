@@ -122,15 +122,16 @@ no lo modifique
 ### 7 - operaciones.py
 
 **Herramienta**: 
+Chat integrado de vsc
 
 **Prompt usado**:
-> 
+> el archivo operaciones.py contiene 4 funciones a implementar de la siguiente manera: la funcion "es_palindromo" recibe como parametro un texto y debe evaluar si es palindromo, en caso que lo sea, debe retornar un true, la evaluacion del texto debe ignorar los espacios y llevaar el texto a minuscula; para la funcion "capitalizar_palabras" recibe un texto como parametro y debe poner en mayusculas las primeras letras de cada palabra, teniendo en cuenta los espacios; debe mostrar por pantalla el texto modificado; para la funcion "contar_vocales" recibe como parametro un texto y debe retornar la cantidad de vocales que hay en el texto, no se debe distinguir entre minusculas y mayusculas; para la funcion "caesar_cipher" se recibe como parametros a un texto y un desplazamiento int y se debe retornar otro texto con la particularidad de aplicar el cifrado cesar al texto dado con el desplazamiento 
 
 **Resultado obtenido**:
 
 
 **¿Lo usaste tal cual o lo modificaste?**
-
+no lo modifique
 
 ---
 
